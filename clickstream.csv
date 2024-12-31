@@ -1,0 +1,6 @@
+user_id,click_time,page,action
+1,2024-06-26T08:45:00,page1,click
+2,2024-06-26T08:50:00,page2,scroll
+3,2024-06-26T08:55:00,page1,click
+4,2024-06-26T09:00:00,page3,click
+5,2024-06-26T09:05:00,page2,scroll
